@@ -1,0 +1,12 @@
+schema_version: 1
+id: billing-revenue
+title: Billing & Revenue
+type: supporting
+owner: finance-lead
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/billing-revenue/**
+phi_allowed: false

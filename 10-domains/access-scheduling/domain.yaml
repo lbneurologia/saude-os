@@ -1,0 +1,12 @@
+schema_version: 1
+id: access-scheduling
+title: Access & Scheduling
+type: supporting
+owner: operations-lead
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/access-scheduling/**
+phi_allowed: false

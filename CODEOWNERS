@@ -1,0 +1,10 @@
+# Propriedade por CAPACIDADE (metadado), nao por pessoa fixa.
+# Ajuste os times conforme a empresa cresce — arquivos nao se movem.
+/00-company/       @ceo @chief-systems-architect
+/10-domains/       @chief-systems-architect
+/20-platform/      @cto
+/30-operations/    @coo
+/40-quality/       @quality-officer
+/50-growth/        @cgo
+/70-initiatives/   @pmo
+/90-meta/          @chief-systems-architect

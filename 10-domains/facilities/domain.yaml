@@ -1,0 +1,12 @@
+schema_version: 1
+id: facilities
+title: Facilities
+type: generic
+owner: facilities-lead
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/facilities/**
+phi_allowed: false

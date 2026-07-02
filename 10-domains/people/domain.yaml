@@ -1,0 +1,12 @@
+schema_version: 1
+id: people
+title: People
+type: generic
+owner: people-lead
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/people/**
+phi_allowed: false

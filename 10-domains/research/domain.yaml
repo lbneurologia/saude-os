@@ -1,0 +1,12 @@
+schema_version: 1
+id: research
+title: Research
+type: core
+owner: research-director
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/research/**
+phi_allowed: false

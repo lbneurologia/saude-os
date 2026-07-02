@@ -1,0 +1,12 @@
+schema_version: 1
+id: patient-experience
+title: Patient Experience
+type: core
+owner: patient-experience-lead
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/patient-experience/**
+phi_allowed: false

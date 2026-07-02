@@ -1,0 +1,12 @@
+schema_version: 1
+id: clinical-care
+title: Clinical Care
+type: core
+owner: clinical-director
+status: active
+depends_on: [access-scheduling, diagnostics-exams]
+interfaces: [patient-referral.v1]
+kpis: [aderencia-protocolo, desfecho-clinico, evento-adverso]
+writable_paths:
+  - 10-domains/clinical-care/**
+phi_allowed: false

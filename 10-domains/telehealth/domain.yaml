@@ -1,0 +1,12 @@
+schema_version: 1
+id: telehealth
+title: Telehealth
+type: supporting
+owner: telehealth-lead
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/telehealth/**
+phi_allowed: false

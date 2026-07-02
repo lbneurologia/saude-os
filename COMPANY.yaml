@@ -1,0 +1,39 @@
+# Manifesto legivel por maquina — fonte da verdade estrutural do Company OS.
+# Agentes de IA e ferramentas consultam este arquivo para orquestrar trabalho.
+schema_version: 1
+name: "saude-os"            # <- nome de trabalho; renomear aqui
+legal_name: "A definir"
+mission:
+  care: "Assistencia medica premium baseada em evidencias"
+  research: "Pesquisa clinica com integridade e etica (CEP/CONEP)"
+  education: "Ensino e formacao continuada"
+principles:
+  - one-canonical-home
+  - documentation-as-code
+  - domain-driven-design
+  - clean-architecture
+  - evidence-based-medicine
+  - privacy-by-design-lgpd
+  - continuous-improvement-pdca
+top_level_areas:
+  - { path: "00-company",     type: permanent, owner: ceo }
+  - { path: "10-domains",     type: permanent, owner: chief-systems-architect }
+  - { path: "20-platform",    type: permanent, owner: cto }
+  - { path: "30-operations",  type: permanent, owner: coo }
+  - { path: "40-quality",     type: permanent, owner: quality-officer }
+  - { path: "50-growth",      type: permanent, owner: cgo }
+  - { path: "70-initiatives", type: temporary, owner: pmo }
+  - { path: "90-meta",        type: permanent, owner: chief-systems-architect }
+data_boundary:
+  phi_in_repo: false          # DADO DE PACIENTE NUNCA ENTRA NESTE REPOSITORIO
+  interoperability: HL7-FHIR
+standards:
+  adr: MADR
+  docs: Diataxis
+  diagrams: C4
+  commits: conventional-commits
+  versioning: semver
+  quality: ISO-9001
+  security: ISO-27001
+  privacy: ISO-27701 + LGPD
+  accreditation: [ONA, JCI]

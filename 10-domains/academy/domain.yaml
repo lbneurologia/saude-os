@@ -1,0 +1,12 @@
+schema_version: 1
+id: academy
+title: Academy
+type: core
+owner: education-director
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/academy/**
+phi_allowed: false

@@ -1,0 +1,15 @@
+# Catalogo legivel por maquina dos dominios (estilo developer portal).
+# Agentes de IA consultam para localizar dono, tipo e dependencias.
+schema_version: 1
+domains:
+  - { id: clinical-care,      type: core,       owner: clinical-director }
+  - { id: patient-experience, type: core,       owner: patient-experience-lead }
+  - { id: access-scheduling,  type: supporting, owner: operations-lead }
+  - { id: billing-revenue,    type: supporting, owner: finance-lead }
+  - { id: diagnostics-exams,  type: supporting, owner: clinical-director }
+  - { id: telehealth,         type: supporting, owner: telehealth-lead }
+  - { id: pharmacy,           type: supporting, owner: pharmacy-lead }
+  - { id: people,             type: generic,    owner: people-lead }
+  - { id: facilities,         type: generic,    owner: facilities-lead }
+  - { id: research,           type: core,       owner: research-director }
+  - { id: academy,            type: core,       owner: education-director }

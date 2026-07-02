@@ -1,0 +1,10 @@
+# Segredos e ambiente
+.env
+*.local
+# Dependencias / build de repos de produto (nao devem viver aqui)
+node_modules/
+dist/
+# Sistema
+.DS_Store
+Thumbs.db
+# LEMBRETE: PHI (dado de paciente) NUNCA entra neste repositorio.

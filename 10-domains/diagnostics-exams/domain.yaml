@@ -1,0 +1,12 @@
+schema_version: 1
+id: diagnostics-exams
+title: Diagnostics & Exams
+type: supporting
+owner: clinical-director
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/diagnostics-exams/**
+phi_allowed: false

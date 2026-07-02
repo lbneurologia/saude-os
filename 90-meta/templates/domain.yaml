@@ -1,0 +1,12 @@
+schema_version: 1
+id: <slug>
+title: <Titulo>
+type: core            # core | supporting | generic
+owner: <papel>
+status: seed          # seed | active
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/<slug>/**
+phi_allowed: false

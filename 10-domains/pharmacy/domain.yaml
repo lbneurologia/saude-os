@@ -1,0 +1,12 @@
+schema_version: 1
+id: pharmacy
+title: Pharmacy
+type: supporting
+owner: pharmacy-lead
+status: seed
+depends_on: []
+interfaces: []
+kpis: []
+writable_paths:
+  - 10-domains/pharmacy/**
+phi_allowed: false

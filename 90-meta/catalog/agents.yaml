@@ -1,0 +1,19 @@
+# Registro legivel por maquina dos AGENTES DE IA especializados.
+# Fonte canonica do roster. Cada agente ganha spec propria em 20-platform/ai/agents/<id>/.
+# Regra: agente que toca contexto clinico e SEMPRE human-in-the-loop; nenhum agente grava PHI.
+schema_version: 1
+agents:
+  - { id: celina,      area: patient-experience, purpose: "Assistente de relacionamento/atendimento ao paciente", human_review: true,  phi_allowed: false, status: seed }
+  - { id: marketing,   area: growth,             purpose: "Producao e gestao de conteudo de marketing",           human_review: true,  phi_allowed: false, status: seed }
+  - { id: seo,         area: growth,             purpose: "Otimizacao para buscadores",                            human_review: false, phi_allowed: false, status: seed }
+  - { id: google-ads,  area: growth,             purpose: "Gestao de campanhas de midia paga",                    human_review: true,  phi_allowed: false, status: seed }
+  - { id: pesquisa,    area: research,           purpose: "Apoio a revisao de evidencias e pesquisa",             human_review: true,  phi_allowed: false, status: seed }
+  - { id: protocolos,  area: clinical-care,      purpose: "Rascunho de protocolos (revisao medica obrigatoria)",  human_review: true,  phi_allowed: false, status: seed }
+  - { id: financeiro,  area: billing-revenue,    purpose: "Analise e rotinas financeiras",                        human_review: true,  phi_allowed: false, status: seed }
+  - { id: rh,          area: people,             purpose: "Apoio a processos de pessoas",                          human_review: true,  phi_allowed: false, status: seed }
+  - { id: juridico,    area: quality,            purpose: "Apoio a compliance (CFM, LGPD, etica)",                human_review: true,  phi_allowed: false, status: seed }
+  - { id: bi,          area: platform,           purpose: "Indicadores, dashboards e analise de dados",           human_review: true,  phi_allowed: false, status: seed }
+  - { id: atendimento, area: patient-experience, purpose: "Apoio operacional ao atendimento",                     human_review: true,  phi_allowed: false, status: seed }
+  - { id: crm,         area: growth,             purpose: "Gestao de relacionamento e funil",                     human_review: true,  phi_allowed: false, status: seed }
+  - { id: operacoes,   area: operations,         purpose: "Standard work e eficiencia operacional",               human_review: true,  phi_allowed: false, status: seed }
+  - { id: growth,      area: growth,             purpose: "Experimentos e crescimento (Lean Startup)",            human_review: true,  phi_allowed: false, status: seed }

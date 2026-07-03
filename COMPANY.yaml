@@ -15,6 +15,22 @@ principles:
   - evidence-based-medicine
   - privacy-by-design-lgpd
   - continuous-improvement-pdca
+# Precedencia em caso de conflito (canonico: 00-company/governance/principles.md)
+principles_precedence:
+  - patient-safety
+  - ethics-and-legal
+  - scientific-evidence
+  - operational-excellence
+  - automation-and-ai
+governance:
+  model: executive-council          # canonico: 00-company/governance/README.md
+  decision_record: MADR
+  council_roles: [ceo, coo, cfo, cmo, cio, cto, medical-director,
+                  scientific-director, patient-experience-director,
+                  legal-director, quality-director, bi-director]
+ai:
+  agents_registry: 90-meta/catalog/agents.yaml
+  human_in_the_loop_for_clinical: true
 top_level_areas:
   - { path: "00-company",     type: permanent, owner: ceo }
   - { path: "10-domains",     type: permanent, owner: chief-systems-architect }
@@ -37,3 +53,8 @@ standards:
   security: ISO-27001
   privacy: ISO-27701 + LGPD
   accreditation: [ONA, JCI]
+inspirations:
+  tech: [amazon, stripe, gitlab]
+  health: [mayo-clinic, cleveland-clinic, einstein, sirio-libanes]
+  methods: [lean-healthcare, lean-startup, toyota-production-system]
+  norms: [ISO-9001, ISO-27001, ISO-27701, ONA, JCI, HL7-FHIR]

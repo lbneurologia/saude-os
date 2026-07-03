@@ -15,3 +15,4 @@ ADRs vivem perto do seu contexto e sao listados aqui.
 |---|---|---|---|
 | 0001 | Adota arquitetura Company OS | accepted | 00-company/decisions |
 | 0002 | Separacao conhecimento vs codigo de produto | accepted | 00-company/decisions |
+| 0003 | Modelo de governanca (Conselho Executivo) | accepted | 00-company/decisions |

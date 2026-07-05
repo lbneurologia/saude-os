@@ -42,3 +42,11 @@ consolida-se no domínio permanente correspondente.
 ## Objetivos → indicadores
 OKRs e metas serão versionados aqui e conectados ao catálogo de indicadores
 (`90-meta/catalog/indicators`), cumprindo o princípio de decisão orientada a dados.
+
+## Documentos estratégicos (canônicos)
+- [Modelo de Negócio](business-model.md) — plataforma de cuidado, posicionamento, economia, KPIs, programas
+- [Fossos Competitivos](competitive-moats.md) — os 10 diferenciais + flywheel + trade-offs
+- [Master Roadmap](roadmap.md) — fases, ondas e caminho crítico
+- [Strategic Intelligence Report (Uberlândia)](intelligence/2026-07-sir-uberlandia.md)
+- Remuneração médica: [`10-domains/people/compensation-model.md`](../../10-domains/people/compensation-model.md)
+- Decisões: ADR [0004](decisions/0004-estrategia-defensibilidade-e-plataforma.md) · [0005](decisions/0005-modelo-economico-e-remuneracao.md)

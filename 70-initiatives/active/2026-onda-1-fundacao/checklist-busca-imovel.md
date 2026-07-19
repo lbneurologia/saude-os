@@ -67,8 +67,7 @@ Um erro aqui estoura o orçamento de R$400k e a data de 01/2027 ao mesmo tempo.
 9. Há **internet fibra** disponível no endereço?
 
 **Linha ocupacional / medicina do trabalho (ver seção 8):**
-9f. Há espaço para **cabine audiométrica** em local **silencioso**, longe da recepção e da rua?
-9g. O layout permite **fluxo separado** entre paciente particular e trabalhador do ASO?
+9f. O layout permite **fluxo separado** entre paciente particular e trabalhador do ASO?
 
 **Procedimentos com perfurocortantes (ver seção 7):**
 9b. Existe uma sala que possa virar **sala de procedimentos** (área maior, com pia)?
@@ -180,15 +179,18 @@ trabalho) foi resolvido — a especialidade existe no corpo clínico fundador.
   amadurece por boca a boca. **De-risca a rampa de lançamento** e estica a reserva de OPEX.
 - Ocupa agenda em horário de baixa demanda.
 
+### Escopo inicial
+**Sem audiometria** no lançamento. Quando um contrato exigir (trabalhadores expostos
+a ruído — PCMSO/NR-7), **encaminhar a parceiro**. Prática comum e não impede a operação.
+
 ### Requisitos físicos a verificar ANTES de alugar
 | Requisito | Observação |
 |---|---|
-| **Cabine audiométrica** | Audiometria é exame central do PCMSO (NR-7) para expostos a ruído. Exige área própria e **ambiente acusticamente tratado e silencioso** — longe de recepção, rua e circulação |
 | **Fluxo separado** | Trabalhador do ASO não deve cruzar com o paciente particular — protege o posicionamento premium |
 | **Sala de exames compartilhada** | ECG e espirometria atendem as duas linhas |
 
-Verificar se o **equipamento de audiometria** também está disponível em comodato,
-como os demais.
+*Futuro (não condiciona a escolha do imóvel):* se a audiometria entrar depois, exigirá
+sala silenciosa para cabine. Se o imóvel oferecer isso naturalmente, é bônus — não critério.
 
 ### Governança (sócios-médicos)
 Os sócios que atuam clinicamente recebem **o mesmo repasse de qualquer médico parceiro**;

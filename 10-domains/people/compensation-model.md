@@ -48,13 +48,29 @@ O que importa ao médico é o ganho **por hora e por mês**, não por consulta:
 A proposta não é "pago mais por consulta" — é **"pago bem e garanto agenda cheia,
 sem burocracia"**. Esse é o argumento de recrutamento (ver pool dos cooperados no SIR).
 
-### Política de retorno (definir antes da abertura)
-Se o retorno for gratuito ao paciente **e** remunerado ao médico, a clínica paga sem faturar.
-Exemplo: 40% das consultas geram retorno a R$50 de repasse →
-custo efetivo = R$110 + (0,4 × R$50) = **R$130** → margem no Clube cai de R$40 para R$20.
+### Política de retorno — DECIDIDA
+**Retorno sem custo ao paciente em até 30 dias, sem repasse adicional ao médico.**
 
-**Recomendado:** retorno com **repasse reduzido** e **janela definida** (ex.: 30 dias),
-com o preço da primeira consulta calibrado para absorvê-lo.
+Consequência contratual: **o repasse remunera um EPISÓDIO DE CUIDADO**
+(1ª consulta + retorno em 30 dias), **não uma visita**. Isso deve estar explícito
+no contrato do médico — caso contrário o profissional percebe trabalho não
+remunerado e a promessa de "parceiro" é queimada.
+
+**Ganho real do médico** (com 40% de taxa de retorno): ~2,9 episódios/hora →
+**~R$ 314/h** (e não os R$440/h de um cenário sem retorno). Este é o número honesto
+para a conversa de recrutamento.
+
+**O custo do retorno não é caixa — é agenda.** Com 40% de retorno, ~29% da
+capacidade de sala gera zero receita. A métrica passa a ser **contribuição por slot**:
+
+| Serviço | Contribuição | Slots consumidos | Contribuição/slot |
+|---|---|---|---|
+| Especialidade particular | R$ 140 | 1,4 | R$ 100 |
+| Especialidade Clube | R$ 40 | 1,4 | R$ 29 |
+
+**Mitigação (Lean):** usar **slot de retorno mais curto** (ex.: 15 min vs 30 min da
+primeira consulta) reduz o consumo de 1,4 para ~1,2 slots e eleva a contribuição
+por slot para ~R$ 117.
 
 ### Guard-rails
 - **Nenhum pagamento ao médico por exame ou procedimento solicitado** — elimina
@@ -62,9 +78,24 @@ com o preço da primeira consulta calibrado para absorvê-lo.
 - **Laudos de exames já estão inclusos nos comodatos** — não pagar médico em duplicidade.
 - Retenção inicial vem da **plataforma** (agenda cheia + zero burocracia), não de bônus.
 
+## Tabela vigente (decidida 2026-07-19)
+
+| Serviço | Particular | Clube | Repasse fixo | Clínica particular | Clínica Clube |
+|---|---|---|---|---|---|
+| **Especialidades médicas** | R$ 250 | R$ 150 | **R$ 110** | R$ 140 | **R$ 40** |
+| **Nutrição** | R$ 160 | R$ 110* | **R$ 70** | R$ 90 | **R$ 40** |
+
+\* preço Clube da nutrição **proposto**, pendente de confirmação.
+
+**Por que nutrição tem repasse próprio:** com repasse único de R$110, a consulta de
+nutrição no Clube ficaria **negativa** (R$110 de preço − R$110 de repasse). Dois
+valores de repasse mantêm a regra de ouro (margem mínima de R$40) em todos os casos.
+
+Dois números apenas — a simplicidade é preservada.
+
 ### A definir
-- Valor fixo **único** ou **por especialidade** (começar com 1–2 valores, nunca 5).
-- Valor do repasse de retorno.
+- Confirmar o preço Clube da nutrição (proposto: R$ 110).
+- Reavaliar os valores quando houver dados reais de taxa de retorno e ocupação.
 
 ## Fase 2 (quando houver dados)
 Camada variável de **qualidade e experiência** — NPS, retenção, adesão a protocolo,

@@ -66,6 +66,10 @@ Um erro aqui estoura o orçamento de R$400k e a data de 01/2027 ao mesmo tempo.
 8. Existe acessibilidade (rampa/elevador/banheiro PNE) ou precisa criar?
 9. Há **internet fibra** disponível no endereço?
 
+**Linha ocupacional / medicina do trabalho (ver seção 8):**
+9f. Há espaço para **cabine audiométrica** em local **silencioso**, longe da recepção e da rua?
+9g. O layout permite **fluxo separado** entre paciente particular e trabalhador do ASO?
+
 **Procedimentos com perfurocortantes (ver seção 7):**
 9b. Existe uma sala que possa virar **sala de procedimentos** (área maior, com pia)?
 9c. É possível levar **água, esgoto e carga elétrica** a essa sala?
@@ -165,7 +169,36 @@ enxaqueca crônica (recorrência trimestral), bloqueio de nervo occipital,
 infiltrações, pequenas suturas e aplicação de medicamentos.
 Toda conduta deve seguir protocolo com evidência (ver `domain.clinical-care.protocols`).
 
-## 8. Guard-rail orçamentário
+## 8. Linha ocupacional (medicina do trabalho) — CONFIRMADA
+
+**Decisão:** entrar na linha ocupacional. O impedimento anterior (falta de médico do
+trabalho) foi resolvido — a especialidade existe no corpo clínico fundador.
+
+### Por que é estratégica (além da margem)
+- **Destrava** EEG clínico a R$30 e espirometria clínica a R$20 (riders dos contratos ocupacionais).
+- **Receita B2B contratada e previsível desde o mês 1** — enquanto a linha premium (B2C)
+  amadurece por boca a boca. **De-risca a rampa de lançamento** e estica a reserva de OPEX.
+- Ocupa agenda em horário de baixa demanda.
+
+### Requisitos físicos a verificar ANTES de alugar
+| Requisito | Observação |
+|---|---|
+| **Cabine audiométrica** | Audiometria é exame central do PCMSO (NR-7) para expostos a ruído. Exige área própria e **ambiente acusticamente tratado e silencioso** — longe de recepção, rua e circulação |
+| **Fluxo separado** | Trabalhador do ASO não deve cruzar com o paciente particular — protege o posicionamento premium |
+| **Sala de exames compartilhada** | ECG e espirometria atendem as duas linhas |
+
+Verificar se o **equipamento de audiometria** também está disponível em comodato,
+como os demais.
+
+### Governança (sócios-médicos)
+Os sócios que atuam clinicamente recebem **o mesmo repasse de qualquer médico parceiro**;
+o retorno como donos vem da **distribuição de lucro, separadamente**. Isso sustenta a
+promessa "a regra é a mesma para todos" na hora de recrutar.
+
+**Risco a monitorar:** concentração em pessoas-chave (fundadores como núcleo clínico
+*e* donos). Mitigação: recrutar médicos parceiros cedo.
+
+## 9. Guard-rail orçamentário
 
 Do plano financeiro (cenário enxuto): **reforma/adequação ≤ R$ 60k**.
 Se o orçamento de adequação passar disso, ou o imóvel está errado, ou o cenário

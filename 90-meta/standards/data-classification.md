@@ -5,7 +5,7 @@ owner: quality-officer
 status: active
 tags: [standards, lgpd, security, phi]
 summary: O que pode e o que nunca pode entrar no repositorio.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [quality.data-governance]
 ---
 # Classificacao de dados

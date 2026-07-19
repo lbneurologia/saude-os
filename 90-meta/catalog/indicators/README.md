@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [kpi, indicators, catalog]
 summary: Definicao canonica de cada metrica. Dominios referenciam; nao redefinem.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.glossary]
 ---
 # Catalogo de indicadores

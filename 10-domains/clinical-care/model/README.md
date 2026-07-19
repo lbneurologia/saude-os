@@ -5,7 +5,7 @@ owner: clinical-director
 status: seed
 tags: [ddd, model]
 summary: Entidades, regras e fluxos clinicos (BPMN/C4).
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domain.clinical-care]
 ---
 # Modelo

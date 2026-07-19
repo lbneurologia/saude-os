@@ -5,7 +5,7 @@ owner: research-director
 status: seed
 tags: [domain, core]
 summary: Pesquisa clinica, CEP/CONEP, integridade e publicacoes.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, domain.clinical-care]
 ---
 # Research

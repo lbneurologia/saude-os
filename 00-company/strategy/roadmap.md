@@ -5,7 +5,7 @@ owner: pmo
 status: active
 tags: [strategy, roadmap, pmo, reference]
 summary: Fases, ondas de execução e caminho crítico até o primeiro programa vendido.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [company.business-model, company.competitive-moats, initiatives.readme]
 ---
 

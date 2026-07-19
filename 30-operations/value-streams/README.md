@@ -5,7 +5,7 @@ owner: coo
 status: seed
 tags: [lean, value-stream]
 summary: Fluxo de valor do paciente ponta a ponta, com eliminacao de desperdicio.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [operations.readme]
 ---
 # Value streams

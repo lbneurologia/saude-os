@@ -5,7 +5,7 @@ owner: people-lead
 status: seed
 tags: [domain, generic]
 summary: RH, credenciamento medico (privileging) e jornada do colaborador.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, domain.clinical-care]
 ---
 # People

@@ -5,7 +5,7 @@ owner: operations-lead
 status: seed
 tags: [domain, supporting]
 summary: Acesso, agenda, marcacao e gestao de filas.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, domain.clinical-care]
 ---
 # Access & Scheduling

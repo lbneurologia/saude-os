@@ -5,7 +5,7 @@ owner: quality-officer
 status: seed
 tags: [quality, incidents]
 summary: Registro e tratamento de incidentes e eventos adversos.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [quality.readme]
 ---
 # incidents

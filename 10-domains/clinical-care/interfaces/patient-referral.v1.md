@@ -5,7 +5,7 @@ owner: clinical-director
 status: active
 tags: [contract, interface, fhir]
 summary: Contrato de encaminhamento entre clinical-care e outros dominios.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domain.access-scheduling, domain.diagnostics-exams]
 ---
 # patient-referral.v1
@@ -18,4 +18,4 @@ related: [domain.access-scheduling, domain.diagnostics-exams]
 | priority | enum(routine,urgent) | sim |
 | reason_code | code (SNOMED/CID) | sim |
 ## Changelog
-- v1 (2026-07-02): versao inicial.
+- v1 (2026-07-19): versao inicial.

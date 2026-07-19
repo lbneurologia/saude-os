@@ -5,7 +5,7 @@ owner: cto
 status: active
 tags: [platform, ai, agents, governance]
 summary: Casa da IA: registro de agentes, specs, prompts, evals e guard-rails. Human-in-the-loop no clínico.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [platform.readme, root.agents, company.principles, meta.catalog.agents]
 ---
 

@@ -5,12 +5,12 @@ owner: ceo
 status: active
 tags: [adr, strategy, moats]
 summary: Adota a identidade de plataforma de cuidado e os 10 fossos competitivos.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [company.competitive-moats, company.business-model, company.adr.0005]
 ---
 
 # 0004 - Estratégia de defensibilidade e identidade de plataforma
-- **Status:** accepted · **Data:** 2026-07-03 · **Decisores:** Conselho Executivo
+- **Status:** accepted · **Data:** 2026-07-19 · **Decisores:** Conselho Executivo
 
 ## Contexto
 Definiu-se que a empresa é uma plataforma de cuidado premium-acessível, não uma

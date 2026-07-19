@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [start-here, overview]
 summary: Mapa-mestre do Company OS. Comece aqui.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.company, meta.readme]
 ---
 

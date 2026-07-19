@@ -5,7 +5,7 @@ owner: clinical-director
 status: active
 tags: [clinical, protocols, evidence]
 summary: Condutas baseadas em evidencias, versionadas e rastreaveis.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.tpl.protocol]
 ---
 # Protocolos

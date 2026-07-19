@@ -5,7 +5,7 @@ owner: pmo
 status: active
 tags: [initiatives, archive]
 summary: Encerradas (imutavel), com aprendizados ja migrados.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [initiatives.readme]
 ---
 # Arquivadas

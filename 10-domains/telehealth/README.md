@@ -5,7 +5,7 @@ owner: telehealth-lead
 status: seed
 tags: [domain, supporting]
 summary: Atendimento virtual e cuidado a distancia (regulado).
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, domain.clinical-care]
 ---
 # Telehealth

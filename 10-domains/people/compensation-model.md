@@ -5,7 +5,7 @@ owner: people-lead
 status: active
 tags: [people, compensation, ethics]
 summary: Fee-for-service simples na abertura; camada variável adiada até haver dados.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [company.business-model, company.adr.0005]
 ---
 

@@ -5,7 +5,7 @@ owner: clinical-director
 status: active
 tags: [clinical, specialties, scalability]
 summary: Como novas especialidades/medicos/exames entram sem reorganizar nada.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domain.clinical-care.protocols]
 ---
 # Especialidades

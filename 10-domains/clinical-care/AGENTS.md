@@ -5,7 +5,7 @@ owner: clinical-director
 status: active
 tags: [ai, agents, clinical]
 summary: Guard-rails para agentes atuando no dominio clinico.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.agents]
 ---
 # Agentes em Clinical Care

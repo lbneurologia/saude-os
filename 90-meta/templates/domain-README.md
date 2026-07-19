@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [template, ddd, domain]
 summary: Estrutura repetivel de todo dominio em 10-domains.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domain.clinical-care]
 ---
 # <Nome do dominio>

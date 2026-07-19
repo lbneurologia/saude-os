@@ -5,7 +5,7 @@ owner: quality-officer
 status: seed
 tags: [quality, clinical-safety]
 summary: Seguranca do paciente e governanca clinica.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [quality.readme]
 ---
 # clinical-safety

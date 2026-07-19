@@ -5,12 +5,12 @@ owner: chief-systems-architect
 status: active
 tags: [adr, architecture]
 summary: Decisao fundadora da arquitetura do repositorio.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.adr.0002, root.readme]
 ---
 # 0001 - Adota arquitetura Company OS
 - **Status:** accepted
-- **Data:** 2026-07-02
+- **Data:** 2026-07-19
 - **Decisores:** CEO, Chief Systems Architect
 
 ## Contexto

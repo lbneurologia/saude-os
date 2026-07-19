@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [archive]
 summary: Congelado e imutavel. Preserva historico sem poluir o presente.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme]
 ---
 # _archive

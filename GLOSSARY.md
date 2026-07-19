@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [glossary, ubiquitous-language]
 summary: A linguagem ubiqua canonica vive em 90-meta/glossary.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.glossary]
 ---
 # Glossario

@@ -5,7 +5,7 @@ owner: clinical-director
 status: seed
 tags: [adr, decisions]
 summary: ADRs especificos do dominio clinico.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.adr-index]
 ---
 # Decisoes do dominio

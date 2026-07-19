@@ -5,7 +5,7 @@ owner: quality-officer
 status: active
 tags: [initiative, regulatory, licensing, critical-path]
 summary: Sequência, dependências e prazos para abrir legalmente em janeiro de 2027.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [initiative.2026.onda-1-fundacao, quality.regulatory]
 ---
 

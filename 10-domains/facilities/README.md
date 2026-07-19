@@ -5,7 +5,7 @@ owner: facilities-lead
 status: seed
 tags: [domain, generic]
 summary: Estrutura fisica, equipamentos e manutencao.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, domain.clinical-care]
 ---
 # Facilities

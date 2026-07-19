@@ -5,7 +5,7 @@ owner: clinical-director
 status: active
 tags: [domain, core, clinical]
 summary: O ato medico: protocolos baseados em evidencias, seguranca e desfechos.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, quality.clinical-safety]
 ---
 # Clinical Care (dominio de referencia)

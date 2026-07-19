@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [governance, contributing]
 summary: Regras que mantem o Company OS organizado por decadas.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme, meta.readme]
 ---
 
@@ -20,7 +20,7 @@ related: [root.readme, meta.readme]
 6. **PHI nunca entra no repo.**
 
 ## Nomes e docs
-- `kebab-case`, sem espacos/acentos; registros com prefixo ISO (`2026-07-02-...`).
+- `kebab-case`, sem espacos/acentos; registros com prefixo ISO (`2026-07-19-...`).
 - Frontmatter obrigatorio; categorizacao Diataxis; diagramas em C4.
 
 ## Fluxo

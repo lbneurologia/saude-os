@@ -5,7 +5,7 @@ owner: ceo
 status: active
 tags: [strategy, intelligence, market-analysis, reference]
 summary: Análise de mercado, região (polo regional), benchmarks e oportunidades. Dados direcionais a validar.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [company.business-model, company.competitive-moats]
 ---
 
@@ -20,7 +20,7 @@ related: [company.business-model, company.competitive-moats]
 consolidado, sem marcas fortes. Vetores: IA clínica, telemedicina regularizada
 (Lei 14.510/2022; CFM 2.314/2022), prevenção/longevidade, personalização.
 
-## Região — Uberlândia como POLO REGIONAL  [VALIDADO 2026-07-03]
+## Região — Uberlândia como POLO REGIONAL  [VALIDADO 2026-07-19]
 
 **Demografia e economia (IBGE):**
 - 713.224 hab (Censo 2022); estimativa 761.835 (2025).

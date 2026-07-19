@@ -5,7 +5,7 @@ owner: clinical-director
 status: seed
 tags: [kpi, metrics]
 summary: KPIs do dominio; definicao canonica no catalogo.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.catalog.indicators]
 ---
 # Metricas

@@ -5,12 +5,12 @@ owner: cfo
 status: active
 tags: [adr, economics, compensation, ethics]
 summary: Lucro por eficiência (não por ticket) e fee-for-service simples na abertura.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [company.business-model, people.compensation, company.adr.0004]
 ---
 
 # 0005 - Modelo econômico e remuneração médica
-- **Status:** accepted · **Data:** 2026-07-03 · **Decisores:** CEO, CFO, Diretor Médico, Jurídico
+- **Status:** accepted · **Data:** 2026-07-19 · **Decisores:** CEO, CFO, Diretor Médico, Jurídico
 
 ## Contexto
 Posicionamento de preço justo com valor percebido muito superior. Lucro deve vir de

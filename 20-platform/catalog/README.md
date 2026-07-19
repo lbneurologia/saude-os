@@ -5,7 +5,7 @@ owner: cto
 status: seed
 tags: [platform, catalog]
 summary: Catalogo de servicos e sistemas (referencia repos de produto).
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [platform.readme]
 ---
 # catalog

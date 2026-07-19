@@ -5,7 +5,7 @@ owner: coo
 status: active
 tags: [operations, lean]
 summary: Como a empresa opera no dia a dia e como cada unidade/regiao funciona.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme]
 ---
 # 30-operations

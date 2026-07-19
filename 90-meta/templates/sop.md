@@ -5,7 +5,7 @@ owner: coo
 status: active
 tags: [template, sop, lean]
 summary: Standard work — como executar de forma padronizada.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [operations.standard-work]
 ---
 # SOP - <nome do procedimento>

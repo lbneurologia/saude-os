@@ -5,7 +5,7 @@ owner: ceo
 status: active
 tags: [strategy, business-model, explanation]
 summary: Identidade, posicionamento, modelo econômico, KPIs, produtização e missão da empresa.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [company.strategy, company.competitive-moats, people.compensation, company.adr.0005]
 ---
 

@@ -5,7 +5,7 @@ owner: clinical-director
 status: active
 tags: [template, clinical, evidence]
 summary: Conduta baseada em evidencias, versionada e rastreavel.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domain.clinical-care]
 ---
 # Protocolo - <condicao>

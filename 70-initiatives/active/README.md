@@ -5,7 +5,7 @@ owner: pmo
 status: active
 tags: [initiatives]
 summary: Projetos em andamento.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [initiatives.readme]
 ---
 # Ativas

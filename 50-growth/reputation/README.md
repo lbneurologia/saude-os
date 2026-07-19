@@ -5,7 +5,7 @@ owner: cgo
 status: seed
 tags: [growth, reputation]
 summary: Reputacao, avaliacoes e presenca.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [growth.readme]
 ---
 # reputation

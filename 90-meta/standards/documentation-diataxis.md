@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [standards, documentation]
 summary: Todo texto se classifica em um dos quatro tipos Diataxis.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.readme]
 ---
 # Diataxis

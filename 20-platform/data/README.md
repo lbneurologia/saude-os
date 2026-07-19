@@ -5,7 +5,7 @@ owner: cto
 status: seed
 tags: [platform, data]
 summary: Plataforma de dados: FHIR, pipelines, dashboards (sem PHI).
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [platform.readme]
 ---
 # data

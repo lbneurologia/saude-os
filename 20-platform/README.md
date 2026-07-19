@@ -5,7 +5,7 @@ owner: cto
 status: active
 tags: [platform, engineering, clean-architecture]
 summary: Especificacoes, catalogo, dados, IA e infra. Codigo de produto vive em repos proprios.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.adr.0002]
 ---
 # 20-platform

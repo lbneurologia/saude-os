@@ -5,7 +5,7 @@ owner: finance-lead
 status: seed
 tags: [domain, supporting]
 summary: Faturamento, precificacao, particular e convenios.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, domain.clinical-care]
 ---
 # Billing & Revenue

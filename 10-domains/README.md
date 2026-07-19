@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [domains, ddd]
 summary: Verticais autocontidos. Missao tripartite: assistencia, pesquisa, ensino.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domain.clinical-care, meta.tpl.domain]
 ---
 # 10-domains

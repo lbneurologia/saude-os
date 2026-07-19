@@ -5,7 +5,7 @@ owner: clinical-director
 status: draft
 tags: [clinical, protocol, example]
 summary: Exemplo ilustrativo de protocolo versionado (nao e conduta oficial).
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domain.clinical-care.protocols]
 ---
 # Protocolo - Cefaleia (EXEMPLO)

@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [meta, standards, governance]
 summary: A governanca do proprio repositorio. As regras que mantem tudo organizado.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme]
 ---
 # 90-meta

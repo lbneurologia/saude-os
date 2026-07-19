@@ -5,7 +5,7 @@ owner: pmo
 status: active
 tags: [initiatives, lean-startup]
 summary: Tudo com comeco, meio e fim. Working-Backwards (PR/FAQ) + gate de qualidade.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.tpl.prfaq]
 ---
 # 70-initiatives

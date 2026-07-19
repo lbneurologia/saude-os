@@ -5,7 +5,7 @@ owner: cgo
 status: active
 tags: [growth, marketing]
 summary: Atrair, converter e reter pacientes; planejar o crescimento.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme]
 ---
 # 50-growth

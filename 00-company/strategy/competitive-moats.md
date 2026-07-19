@@ -5,7 +5,7 @@ owner: ceo
 status: active
 tags: [strategy, moats, explanation]
 summary: Os 10 diferenciais difíceis de copiar, o flywheel e os trade-offs deliberados.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [company.business-model, company.adr.0004]
 ---
 

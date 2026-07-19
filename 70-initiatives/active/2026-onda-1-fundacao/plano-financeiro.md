@@ -5,7 +5,7 @@ owner: cfo
 status: active
 tags: [initiative, finance, unit-economics, reference]
 summary: Alocação de capital, custo fixo, ponto de equilíbrio e economia do Clube de assinatura.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [initiative.2026.onda-1-fundacao, company.business-model, company.adr.0005]
 ---
 

@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [standards, metadata, search]
 summary: Metadado que torna a documentacao pesquisavel por humanos e IA.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.std.naming]
 ---
 # Frontmatter (YAML) obrigatorio em todo .md

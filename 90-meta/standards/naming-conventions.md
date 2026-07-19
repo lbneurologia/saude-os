@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [standards, naming]
 summary: Nomes previsiveis para humanos e IA.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.std.frontmatter]
 ---
 # Nomenclatura

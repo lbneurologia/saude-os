@@ -5,7 +5,7 @@ owner: ceo
 status: active
 tags: [company, strategy, explanation]
 summary: Missão tripartite, visão de 20 anos, objetivos e o mapa de expansão da empresa.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.governance, company.principles, growth.expansion, operations.network]
 ---
 

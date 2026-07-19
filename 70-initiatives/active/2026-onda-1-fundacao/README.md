@@ -5,7 +5,7 @@ owner: pmo
 status: active
 tags: [initiative, foundation, launch, prfaq]
 summary: Fechar escopo de produtos, unit economics e destravar o caminho crítico (CNPJ, RT, licenças).
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-19
 related: [company.roadmap, company.business-model, company.sir.2026-07]
 ---
 
@@ -39,7 +39,7 @@ e onde o médico atende sem burocracia, com agenda cheia.
 | D5 | **Entidade legal + RT** | Abrir CNPJ e definir Responsável Técnico — **item de maior prazo, começar já** | decisão do dono |
 | D6 | **Nome e bairro** | Nome trava marca/domínio; bairro deve priorizar acesso + estacionamento perto de alta renda | decisão do dono |
 
-## Entradas do dono — RECEBIDAS (2026-07-03)
+## Entradas do dono — RECEBIDAS (2026-07-19)
 1. **Capital:** até **R$ 400.000** (CAPEX + reserva de OPEX). → ver `plano-financeiro.md`
 2. **Abertura-alvo:** **01/2027**. → ver `licenciamento-caminho-critico.md`
 3. **Nome:** ainda não definido (segue provisório `saude-os`).

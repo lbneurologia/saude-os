@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [ai, governance, agents]
 summary: Como agentes de IA devem operar no Company OS.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.company, meta.readme]
 ---
 

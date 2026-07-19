@@ -5,7 +5,7 @@ owner: clinical-director
 status: seed
 tags: [domain, supporting]
 summary: Catalogo de exames, laudos e fluxo diagnostico.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, domain.clinical-care]
 ---
 # Diagnostics & Exams

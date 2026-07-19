@@ -5,7 +5,7 @@ owner: pmo
 status: active
 tags: [template, initiative, lean-startup]
 summary: Working-Backwards — comeca pelo resultado e pela hipotese.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [initiatives.readme]
 ---
 # Iniciativa - <nome>

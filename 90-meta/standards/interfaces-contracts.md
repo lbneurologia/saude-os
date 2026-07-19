@@ -5,7 +5,7 @@ owner: cto
 status: active
 tags: [standards, ddd, contracts, api]
 summary: Dominios so se comunicam por contratos versionados, como APIs publicas.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.std.naming]
 ---
 # Contratos de interface

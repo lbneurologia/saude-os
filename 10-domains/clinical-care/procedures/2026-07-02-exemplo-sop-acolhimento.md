@@ -5,7 +5,7 @@ owner: clinical-director
 status: draft
 tags: [sop, example]
 summary: Exemplo de SOP.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domain.clinical-care.procedures]
 ---
 # SOP - Acolhimento clinico (EXEMPLO)

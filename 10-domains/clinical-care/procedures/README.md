@@ -5,7 +5,7 @@ owner: clinical-director
 status: active
 tags: [sop, lean]
 summary: Standard work do dominio clinico.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.tpl.sop, operations.standard-work]
 ---
 # SOPs clinicos

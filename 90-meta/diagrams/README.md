@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [diagrams, c4, architecture]
 summary: Do macro ao detalhe usando o modelo C4.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme]
 ---
 # Diagramas C4

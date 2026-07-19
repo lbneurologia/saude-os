@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [adr, index, decisions]
 summary: Lista central de todas as decisoes, onde quer que morem.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.decisions]
 ---
 # Indice de ADRs

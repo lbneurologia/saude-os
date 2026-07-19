@@ -5,7 +5,7 @@ owner: ceo
 status: active
 tags: [company, governance, principles, reference]
 summary: Os 13 princípios que governam toda decisão, e a hierarquia de desempate em caso de conflito.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.governance, company.adr.0003]
 ---
 

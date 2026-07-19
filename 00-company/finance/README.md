@@ -5,7 +5,7 @@ owner: ceo
 status: seed
 tags: [company, finance]
 summary: DRE consolidada, precificacao, unit economics e projecoes.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.readme]
 ---
 # Financas

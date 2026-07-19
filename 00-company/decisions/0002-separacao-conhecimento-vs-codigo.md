@@ -5,12 +5,12 @@ owner: cto
 status: active
 tags: [adr, architecture, scalability]
 summary: Este repo guarda conhecimento e especificacoes; codigo vive em repos proprios.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.adr.0001, platform.readme]
 ---
 # 0002 - Separacao conhecimento vs codigo de produto
 - **Status:** accepted
-- **Data:** 2026-07-02
+- **Data:** 2026-07-19
 - **Decisores:** CTO, Chief Systems Architect
 
 ## Contexto

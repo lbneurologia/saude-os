@@ -5,7 +5,7 @@ owner: ceo
 status: seed
 tags: [company, people-culture]
 summary: Valores aplicados, desenho organizacional e cultura.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.readme]
 ---
 # Pessoas e Cultura

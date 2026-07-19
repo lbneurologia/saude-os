@@ -5,7 +5,7 @@ owner: cto
 status: seed
 tags: [platform, services]
 summary: Especificacoes de servicos/APIs de backend.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [platform.readme]
 ---
 # services

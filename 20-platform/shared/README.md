@@ -5,7 +5,7 @@ owner: cto
 status: seed
 tags: [platform, shared]
 summary: Design system, bibliotecas e componentes compartilhados.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [platform.readme]
 ---
 # shared

@@ -5,13 +5,13 @@ owner: ceo
 status: active
 tags: [adr, governance, principles]
 summary: Adota o Conselho Executivo, os 13 princípios inegociáveis e a hierarquia de precedência como governança vinculante.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.governance, company.principles, company.adr.0001]
 ---
 
 # 0003 - Modelo de governança (Conselho Executivo Permanente)
 - **Status:** accepted
-- **Data:** 2026-07-02
+- **Data:** 2026-07-19
 - **Decisores:** Conselho Executivo (CEO, COO, CFO, CMO, CIO, CTO, Diretores)
 
 ## Contexto

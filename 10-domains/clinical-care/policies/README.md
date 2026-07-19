@@ -5,7 +5,7 @@ owner: clinical-director
 status: seed
 tags: [policies]
 summary: O que pode e o que nao pode na pratica clinica.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [quality.clinical-safety]
 ---
 # Politicas clinicas

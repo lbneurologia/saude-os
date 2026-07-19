@@ -5,7 +5,7 @@ owner: ceo
 status: active
 tags: [company, governance, decision-making, explanation]
 summary: Modelo de decisão da empresa — o Conselho Executivo, as lentes obrigatórias e o protocolo de raciocínio.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [company.principles, company.strategy, company.adr.0003, meta.readme]
 ---
 

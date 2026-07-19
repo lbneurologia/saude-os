@@ -5,7 +5,7 @@ owner: quality-officer
 status: active
 tags: [quality, compliance, risk]
 summary: QMS, LGPD, governanca de dados, seguranca do paciente, acreditacao e regulatorio.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme]
 ---
 # 40-quality

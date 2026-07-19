@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [glossary, ddd, ubiquitous-language]
 summary: Uma definicao por termo. Evita sinonimos divergentes entre dominios.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme]
 ---
 # Glossario (linguagem ubiqua)

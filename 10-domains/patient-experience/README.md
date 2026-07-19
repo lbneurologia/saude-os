@@ -5,7 +5,7 @@ owner: patient-experience-lead
 status: seed
 tags: [domain, core]
 summary: Jornada premium ponta a ponta, hospitalidade e satisfacao (NPS).
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [domains.readme, domain.clinical-care]
 ---
 # Patient Experience

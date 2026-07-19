@@ -5,7 +5,7 @@ owner: ceo
 status: active
 tags: [company, handbook, strategy]
 summary: Quem somos, para onde vamos e como decidimos.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [root.readme, company.decisions]
 ---
 # 00-company

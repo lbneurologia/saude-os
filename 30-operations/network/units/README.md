@@ -5,7 +5,7 @@ owner: coo
 status: active
 tags: [multi-unit]
 summary: Uma pasta por unidade, so com especificos locais.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [operations.network]
 ---
 # Unidades

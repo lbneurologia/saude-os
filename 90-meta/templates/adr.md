@@ -5,7 +5,7 @@ owner: chief-systems-architect
 status: active
 tags: [template, adr]
 summary: Modelo para Architecture Decision Records.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.adr-index]
 ---
 # NNNN - Titulo da decisao

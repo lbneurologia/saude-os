@@ -5,7 +5,7 @@ owner: clinical-director
 status: active
 tags: [ddd, contracts, interfaces]
 summary: Contratos versionados de comunicacao com outros dominios.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.std.interfaces]
 ---
 # Interfaces

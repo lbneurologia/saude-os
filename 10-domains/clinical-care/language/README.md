@@ -5,7 +5,7 @@ owner: clinical-director
 status: seed
 tags: [ddd, language]
 summary: Termos canonicos do dominio clinico.
-last_reviewed: 2026-07-02
+last_reviewed: 2026-07-19
 related: [meta.glossary]
 ---
 # Linguagem ubiqua (clinico)

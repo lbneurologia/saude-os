@@ -44,20 +44,64 @@ duplo ganho de capital e de prazo.
 | Aluguel + condomínio + IPTU (~150–200 m², 4 consultórios) | R$ 8–14k |
 | Equipe administrativa (2 recepção + 1 técnico) | R$ 11–13k |
 | Sistemas (EMR, CRM, WhatsApp API, telefonia, assinatura) | R$ 1,5–3k |
-| Bioimpedância (comodato ilimitado) | R$ 0,75k |
+| **Comodatos de exames** (pacote completo — ver seção abaixo) | **R$ 3,3k** |
 | Contabilidade | R$ 1,2–2k |
 | Utilidades, limpeza, materiais | R$ 3–5k |
 | Marketing recorrente | R$ 3–8k |
-| **Total fixo** | **~R$ 29–45k/mês** (planejar R$ 32k) |
+| **Total fixo** | **~R$ 31–47k/mês** (planejar **R$ 34,5k**) |
 
 **Vantagem estrutural:** o médico é **FFS = custo variável**. Não há folha médica fixa.
 Isso derruba o ponto de equilíbrio e protege o caixa em meses fracos.
 
 ## Ponto de equilíbrio
 
-Com contribuição de ~R$ 100/consulta (preço cheio, após repasse ao médico):
-**~300–350 consultas/mês (≈16–18/dia)** cobrem o custo fixo, **antes** da margem de exames.
-Com 5 especialidades = 3–4 consultas/dia por especialidade. **Alcançável.**
+Com contribuição de ~R$ 100/consulta (preço cheio, após repasse ao médico) e custo
+fixo de R$ 34,5k: **~345 consultas/mês (≈17–18/dia)** cobrem o fixo **sem exames**.
+Com a margem de exames contribuindo ~R$ 5k/mês, cai para **~295 consultas/mês (~15/dia)**.
+Com 5 especialidades = 3 consultas/dia por especialidade. **Alcançável.**
+
+## Economia dos comodatos (termos reais — 2026-07-19)
+
+| Exame | Aluguel/mês | Inclusos | Custo marginal | Preço sugerido* | Margem | Volume p/ pagar aluguel |
+|---|---|---|---|---|---|---|
+| ECG | R$ 300 | 30 | R$ 10 | ~R$ 80 | ~87% | ~4/mês |
+| MAPA | R$ 600 | 10 | R$ 60 | ~R$ 200 | ~70% | ~3/mês |
+| Holter | R$ 600 | 10 | R$ 60 | ~R$ 250 | ~76% | ~3/mês |
+| Bioimpedância | R$ 750 | ilimitado | **R$ 0** | ~R$ 80 | ~100% | ~10/mês |
+| EEG Ocupacional | R$ 750 | 30 | R$ 25 | B2B | — | — |
+| **EEG Clínico** | *rider* | — | **R$ 30** | ~R$ 200 | ~85% | — |
+| **EEG MAP** | *rider* | — | **R$ 40** | ~R$ 300 | ~87% | — |
+| Espirometria Ocupacional | R$ 300 | 30 | R$ 10 | B2B | — | — |
+| **Espirometria Clínica** | *rider* | — | **R$ 20** | ~R$ 100 | ~80% | — |
+
+\* Preços a validar com o mercado local. **Custo fixo total: R$ 3.300/mês.**
+
+**Veredito:** todos os comodatos têm ponto de equilíbrio de 3–10 exames/mês.
+Todos se pagam facilmente → **contratar o pacote completo**.
+
+**Atenção ao excedente:** MAPA e Holter têm cota baixa (10) e excedente caro (R$60).
+Acima da cota a margem estabiliza em ~70–76% (não melhora com escala). Já ECG (R$10)
+e os riders clínicos mantêm margem alta em qualquer volume.
+
+### A alavanca estratégica: a linha ocupacional
+
+**EEG Clínico (R$30) e Espirometria Clínica (R$20) são *riders*** — só existem se a
+clínica mantiver os contratos **Ocupacionais**. Consequências:
+
+1. **Receita B2B recorrente** — Uberlândia é polo de agro/atacado/logística; empresas
+   com ASO periódico (espirometria é padrão; EEG em protocolos específicos).
+2. **Destrava EEG clínico a R$ 30** — margem ~85% **na especialidade fundadora**
+   (cefaleia, epilepsia, memória, sono).
+3. **Preenche agenda ociosa** — exame ocupacional roda em horário de baixa demanda.
+
+**Trade-off (Porter + marca):** medicina ocupacional é alto volume e baixo ticket;
+pode diluir o posicionamento premium se o paciente particular cruzar com o fluxo do ASO.
+
+**Recomendação:** entrar, com **separação estrutural** (horários e fluxo distintos).
+A economia financia a operação premium.
+
+**Requisito não previsto:** exige **médico do trabalho** (6º profissional) e
+coordenação de PCMSO. Incluir no plano de pessoas e no licenciamento.
 
 ## Clube de assinatura — R$ 39,90/mês
 
@@ -97,6 +141,9 @@ custo do que consome. O risco catastrófico de plano de saúde **não existe aqu
 > Todo produto construído sobre ela é margem quase pura.
 
 ## Verificações pendentes
-- Termos dos **comodatos** (ECG/MAPA/Holter): mensalidade fixa, custo por exame ou volume mínimo?
+- ~~Termos dos comodatos~~ ✅ **recebidos e analisados** (2026-07-19).
 - Orçamentos reais: aluguel, reforma, salários em Uberlândia.
 - Definir **modelo de repasse** ao médico (percentual recomendado).
+- Validar **preços de exames** praticados em Uberlândia (os da tabela são estimativas).
+- **Decisão pendente:** entrar ou não na linha ocupacional (recomendado: sim, com
+  separação estrutural) → exige contratar **médico do trabalho**.

@@ -66,6 +66,12 @@ Um erro aqui estoura o orçamento de R$400k e a data de 01/2027 ao mesmo tempo.
 8. Existe acessibilidade (rampa/elevador/banheiro PNE) ou precisa criar?
 9. Há **internet fibra** disponível no endereço?
 
+**Procedimentos com perfurocortantes (ver seção 7):**
+9b. Existe uma sala que possa virar **sala de procedimentos** (área maior, com pia)?
+9c. É possível levar **água, esgoto e carga elétrica** a essa sala?
+9d. O **abrigo de resíduos** comporta segregação do **Grupo E** (perfurocortantes)?
+9e. Há espaço para **expurgo + área limpa** (só se optar por instrumental reutilizável)?
+
 **Comercial (protege o caixa):**
 10. **Carência de aluguel durante a obra** — quantos meses? *(item de maior impacto no caixa)*
 11. O proprietário **participa da adequação** ou abate do aluguel?
@@ -96,6 +102,8 @@ Um erro aqui estoura o orçamento de R$400k e a data de 01/2027 ao mesmo tempo.
 - ❌ Sem acessibilidade e sem possibilidade de adaptação
 - ❌ Estrutura crua, sem histórico de clínica → obra pesada → **estoura os R$400k**
 - ❌ Sem carência de obra e sem estacionamento
+- ❌ Nenhuma sala capaz de virar **sala de procedimentos** com água/esgoto (ver seção 7)
+- ❌ Abrigo de resíduos sem espaço para segregação do **Grupo E**
 
 ## 6. Matriz de decisão (pontuar cada candidato de 1 a 5)
 
@@ -113,7 +121,51 @@ Um erro aqui estoura o orçamento de R$400k e a data de 01/2027 ao mesmo tempo.
 
 Comparar no mínimo **3 candidatos** antes de decidir. Score = Σ (nota × peso).
 
-## 7. Guard-rail orçamentário
+## 7. Procedimentos com perfurocortantes — preparar AGORA, operar depois
+
+A atividade pode começar **após a abertura**, mas a **estrutura física precisa estar
+prevista antes de alugar**. Retrofit exige obra + novo processo de licenciamento.
+
+### Impedimentos estruturais (verificar em cada imóvel candidato)
+
+| # | Requisito | Por que é eliminatório se ausente |
+|---|---|---|
+| 1 | **Sala de procedimentos própria** (não um consultório comum): área maior, pia, revestimento lavável, bancada | exigência da RDC 50; não se improvisa |
+| 2 | **Água, esgoto e carga elétrica** disponíveis nessa sala | maior item de obra; caríssimo retrofitar |
+| 3 | **Abrigo de resíduos** comportando **Grupo E** (perfurocortantes — RDC 222/2018) | exigido no PGRSS e na vistoria |
+| 4 | Espaço para **expurgo + área limpa** — *somente se* usar instrumental reutilizável | separação física obrigatória (RDC 15/2012) |
+
+### A bifurcação: descartável × reutilizável
+
+- **Material descartável estéril** → **sem CME**, sem expurgo, sem autoclave.
+  Menor capital, menor risco sanitário. **Recomendado para o porte inicial.**
+- **Instrumental reutilizável** → exige área de processamento com **separação física
+  entre área suja e área limpa**, fluxo que não cruza, autoclave, ponto de água,
+  dreno e elétrica dedicada (RDC 15/2012). **Praticamente impossível de improvisar
+  depois** — se houver qualquer chance disso, reservar o espaço agora.
+
+### Estratégia de licenciamento (separar as duas decisões)
+
+- **Infraestrutura física: construir agora.** Sala, hidráulica, elétrica e abrigo
+  custam pouco a mais na obra inicial e são caros depois — independe de quando a
+  atividade começar.
+- **Escopo da licença: perguntar à Vigilância** na consulta prévia:
+  *"incluir procedimentos no escopo inicial altera o prazo de análise?"*
+  - Se **não atrasar** → incluir desde já (zero retrabalho).
+  - Se **atrasar** → licenciar sem procedimentos, mas **com a estrutura pronta**,
+    tornando a ampliação futura um processo documental e não uma obra.
+- Verificar com o contador se o **CNAE** muda (procedimentos podem exigir
+  enquadramento distinto de "exames complementares").
+
+### Por que isso é ativo, não custo
+
+Com neurologia fundadora e Programa de Controle de Enxaqueca, a sala habilita
+procedimentos de **alto valor e recorrência programada**: toxina botulínica para
+enxaqueca crônica (recorrência trimestral), bloqueio de nervo occipital,
+infiltrações, pequenas suturas e aplicação de medicamentos.
+Toda conduta deve seguir protocolo com evidência (ver `domain.clinical-care.protocols`).
+
+## 8. Guard-rail orçamentário
 
 Do plano financeiro (cenário enxuto): **reforma/adequação ≤ R$ 60k**.
 Se o orçamento de adequação passar disso, ou o imóvel está errado, ou o cenário

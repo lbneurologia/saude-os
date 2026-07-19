@@ -39,12 +39,23 @@ e onde o médico atende sem burocracia, com agenda cheia.
 | D5 | **Entidade legal + RT** | Abrir CNPJ e definir Responsável Técnico — **item de maior prazo, começar já** | decisão do dono |
 | D6 | **Nome e bairro** | Nome trava marca/domínio; bairro deve priorizar acesso + estacionamento perto de alta renda | decisão do dono |
 
-## Entradas necessárias (do dono)
-1. **Capital disponível** (faixa) para CAPEX + reserva de OPEX.
-2. **Data-alvo de abertura**.
-3. **Nome** da empresa (ou seguimos com o provisório).
-4. **RT**: o corpo clínico fundador assume a responsabilidade técnica?
-5. Confirmação de **D1/D2** (produtos e especialidades de abertura).
+## Entradas do dono — RECEBIDAS (2026-07-03)
+1. **Capital:** até **R$ 400.000** (CAPEX + reserva de OPEX). → ver `plano-financeiro.md`
+2. **Abertura-alvo:** **01/2027**. → ver `licenciamento-caminho-critico.md`
+3. **Nome:** ainda não definido (segue provisório `saude-os`).
+4. **RT:** ✅ corpo clínico fundador assume.
+5. **Especialidades de abertura:** Clínica Médica, Cardiologia, Medicina de Família,
+   Nutrição, Neurologia.
+   **Exames:** ECG, MAPA, Holter (**comodato**), Bioimpedância (**R$750/mês ilimitado**).
+   **Clube de assinatura:** R$ 39,90/mês (consulta R$150 vs R$250, exames 30–40% off,
+   bioimpedância trimestral inclusa).
+
+## Decisões ainda abertas
+- **Modelo de repasse ao médico**: percentual (recomendado) ou valor fixo?
+  Impacta diretamente a margem do Clube.
+- **Nome e bairro** da empresa.
+- Inclusão dos produtos adicionais recomendados (check-up B2B, programa de
+  emagrecimento, polissonografia, ergometria, espirometria, telemedicina).
 
 ## Critério de conclusão da onda
 D1-D5 decididos e documentados · CNPJ aberto · RT definido · modelo de unit economics
